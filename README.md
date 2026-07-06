@@ -1,6 +1,7 @@
 # 🌤 Weather Dashboard using Streamlit, REST API & JSON
 
 ### Real-Time Weather Monitoring Application using Python, Streamlit & OpenWeather REST API
+https://weather-dashboard-app-naved.streamlit.app/
 
 ---
 
@@ -239,8 +240,6 @@ The Weather Dashboard includes the following functionality:
 
 # 📊 Dashboard Preview
 
-> Add screenshots of your application inside the `screenshots/` folder.
-
 ## Home Page
 
 ```
@@ -393,51 +392,7 @@ This project demonstrates practical knowledge of:
 
 ---
 
-# 🚀 Future Enhancements
 
-Some ideas for future improvements:
-
-- 🌤 5-Day Weather Forecast
-- 📍 Detect Current Location
-- 🌅 Sunrise & Sunset Times
-- 🌎 Interactive Weather Maps
-- 🌡 Temperature Trend Charts
-- 📊 Weather Analytics Dashboard
-- 🌙 Dark / Light Theme Toggle
-- ☁ Deploy to Streamlit Community Cloud
-- 🐳 Docker Support
-- 🔍 Search Suggestions
-
----
-
-# 📷 Screenshots
-
-Store screenshots inside:
-
-```
-screenshots/
-```
-
-Example:
-
-```
-screenshots/
-│
-├── home.png
-├── weather_result.png
-├── history.png
-└── dashboard.png
-```
-
----
-
-# 📌 Resume Project Description
-
-**Weather Dashboard using Streamlit, REST API & JSON**
-
-Developed an interactive weather dashboard using Python and Streamlit that consumes live weather data from the OpenWeather REST API. Implemented HTTP GET requests, parsed nested JSON responses, securely managed API keys using environment variables, stored search history in a local JSON file, and provided a user-friendly interface with error handling and downloadable search history.
-
----
 
 # 🤝 Connect With Me
 
