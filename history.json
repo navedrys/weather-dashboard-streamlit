@@ -1,0 +1,46 @@
+[
+    {
+        "city": "Pune",
+        "country": "IN",
+        "temperature": 24.55,
+        "feels_like": 25.23,
+        "humidity": 83,
+        "condition": "Clouds",
+        "description": "overcast clouds",
+        "wind_speed": 0.45,
+        "searched_at": "03-07-2026 16:48:05"
+    },
+    {
+        "city": "Kolkata",
+        "country": "IN",
+        "temperature": 31.53,
+        "feels_like": 37.46,
+        "humidity": 65,
+        "condition": "Rain",
+        "description": "moderate rain",
+        "wind_speed": 5.8,
+        "searched_at": "03-07-2026 16:48:52"
+    },
+    {
+        "city": "Pune",
+        "country": "IN",
+        "temperature": 24.55,
+        "feels_like": 25.23,
+        "humidity": 83,
+        "condition": "Clouds",
+        "description": "overcast clouds",
+        "wind_speed": 0.45,
+        "searched_at": "03-07-2026 17:02:14"
+    },
+    {
+        "city": "Pune",
+        "country": "IN",
+        "temperature": 23.41,
+        "feels_like": 24.18,
+        "humidity": 91,
+        "condition": "Clouds",
+        "description": "overcast clouds",
+        "wind_speed": 0.45,
+        "searched_at": "03-07-2026 22:55:13"
+    }
+]
